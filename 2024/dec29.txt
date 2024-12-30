@@ -1,0 +1,9 @@
+What have done
+1. Spinning Mill Registration issue fix
+2. Fix Google Signin crashing profile page
+3. Add Google Analytics
+4. Add Robots and sitemap and seo config
+
+
+What Next
+1. Add new improvments based in Audit reports

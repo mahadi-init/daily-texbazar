@@ -1,0 +1,9 @@
+What have done
+- Add image loading skeleton when image 
+- add spinning mill fixs
+- tender box
+- html accesiblity for better seo performance
+
+What Next
+- issue fix for spinning mill and ready for production
+- Tendor box
